@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish Mishra
-- 👀 I’m interested in Java, Angular, Flutter and more recently blockchain.
-- 🌱 I’m currently learning Flutter and blockchain
+- 👀 I’m interested in Java, Angular, Flutter and more recently python.
+- 🌱 I’m currently learning Flutter and python
 - 📫 You can reach me at ashish.25jl@gmail.com
 
 <!---
