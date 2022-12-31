@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ashish Mishra
+- 👋 Hi, I’m Ashish
 - 👀 I’m interested in Java, Angular, Flutter and more recently python.
-- 🌱 I’m currently learning Flutter and python
+- 🌱 I have substantial experience creating applications in Java, Angular and Flutter.
 - 📫 You can reach me at ashish.25jl@gmail.com
 
 <!---
