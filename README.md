@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ashish
-- 👀 I’m interested in Java, Angular, Flutter and more recently python.
-- 🌱 I have substantial experience creating applications in Java, Angular and Flutter.
+- 👋 Hi, I’m Ashish, a Computer Science Engineer with MBA in Systems and IT.
+- 🌱 I have substantial experience creating applications in Java, Angular and Flutter. I have worked as a Lead Business Analyst, Techno-Functional consultant, Lead Developer and Technical Project Manager for Banking Giants like Deutsche Bank as well as MNCs like Accenture, Amdocs from IT Service Industry.
+- I am interested in collaborations to build quality software and systems.
 - 📫 You can reach me at ashish.25jl@gmail.com
 
 <!---
